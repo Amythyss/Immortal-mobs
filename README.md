@@ -7,6 +7,12 @@ Since this datapack was originally created for personal use, it may not be updat
 # Contributions
 **You can contribute to this datapack** and improve its code or fix bugs, however contributions are not guaranteed to be accepted.
 
+# Folder structure
+- **Datapack**
+  - _The datapack itself._
+- **PSDs**
+  - _Contains the PSDs of every asset[^3] used and are stored to allow for easier changes._
+
 # Credit
 [Vanilla Tweaks](https://vanillatweaks.net/)' Silent Mobs datapack has been used as a foundation for this datapack's creation[^1].
 
@@ -42,3 +48,4 @@ This may be for an extensive number of reasons. Here's what you can do:
 
 [^1]: Means I downloaded said datapack and modified its code to do something different.
 [^2]: https://github.com/riddemon/Immortal-mobs?tab=GPL-3.0-1-ov-file#readme
+[^3]: Pictures
