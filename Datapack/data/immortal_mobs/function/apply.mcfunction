@@ -1,5 +1,4 @@
-# Desc: Applies invulnerability, custom name and glowing effect
-#
+# Applies invulnerability, custom name and glowing effect
 # Called by: immortal_mobs:check
 
 data merge entity @s {CustomName:'{"text":"_Unkillable_"}',Invulnerable:1b}
