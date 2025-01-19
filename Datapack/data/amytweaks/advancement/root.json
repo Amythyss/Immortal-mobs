@@ -3,9 +3,15 @@
 		"icon": {
 			"id": "minecraft:prismarine"
 		},
-		"title": "Riddemon's Datapacks",
+		"title": "Amythyss' Datapacks",
 		"frame": "challenge",
-		"description": ["",{"text":"All loaded data packs created by Riddemon","color":"green"}],
+		"description": [
+			"",
+			{
+				"text": "All loaded data packs created by Amythyss",
+				"color": "green"
+			}
+		],
 		"background": "minecraft:textures/block/black_concrete_powder.png",
 		"show_toast": false,
 		"announce_to_chat": false

@@ -1,6 +1,8 @@
-# Applies invulnerability, custom name and glowing effect
+# Desc: Removes invulnerability and applies custom name and glowing effect
+#
 # Called by: immortal_mobs:check
 
-data merge entity @s {CustomName:'{"text":"_Unkillable_"}',Invulnerable:1b}
+data modify entity @s CustomName set value '_Killable_'
+data modify entity @s Invulnerable set value 0
 effect give @s minecraft:glowing 3 0 true
 execute at @s run playsound minecraft:block.amethyst_block.resonate ambient @a[distance=..6] ~ ~ ~ .8 2
