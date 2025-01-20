@@ -22,14 +22,14 @@ Since this datapack was originally created for personal use, it may not be updat
 ## I spotted a bug!
 Good catch! Now there are two possible paths:
 - Create a branch, update my code and then make a pull request.
-- Create a [Bug Report](https://github.com/riddemon/Immortal-mobs/issues) and try to explain the issue to the best of your capabilities.
+- Create a [Bug Report](https://github.com/Amythyss/Immortal-mobs/issues) and try to explain the issue to the best of your capabilities.
 Thank you.
 
 ## Can you make a version for Minecraft [version] ?
 As stated previously, this datapack is created for personal use, therefore I won't unless I use that version.
 
 You **can** however:
-- Clone this datapack and change it so that it works in your version (You are required to follow the [License](https://github.com/riddemon/Immortal-mobs?tab=GPL-3.0-1-ov-file#readme)).
+- Clone this datapack and change it so that it works in your version (You are required to follow the [License](https://github.com/Amythyss/Immortal-mobs?tab=GPL-3.0-1-ov-file#readme)).
 - Create a datapack that does the exact same thing but in your version.
 
 ## Someone cloned your datapack and is taking credit for it.
@@ -47,5 +47,5 @@ This may be for an extensive number of reasons. Here's what you can do:
 - Wait and hope.
 
 [^1]: Means I downloaded said datapack and modified its code to do something different.
-[^2]: https://github.com/riddemon/Immortal-mobs?tab=GPL-3.0-1-ov-file#readme
+[^2]: https://github.com/Amythyss/Immortal-mobs?tab=GPL-3.0-1-ov-file#readme
 [^3]: Pictures
